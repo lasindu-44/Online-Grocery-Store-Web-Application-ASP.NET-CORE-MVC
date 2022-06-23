@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Supplier>
+
+
+@{
+    ViewData["Title"] = "List Of Suppliers";
+}
+<div class="container-fluid">
+    <div class="row">
+
+        <div class="col-md-12">
+            <table class="table" style="align-self:center">
+                <thead>
+                    <tr style="border:solid" class="text-center">
+
+                        <th>@Html.DisplayNameFor(model => model.ProfilePictureUrl)</th>
+                        <th>@Html.DisplayNameFor(model => model.FullName)</th>
+                        <th>@Html.DisplayNameFor(model => model.Bio)</th>
+                        @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                        {
+                            <th>Actions</th>
+                        }
+
+                        </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                    <tr>
+                        <td class="align-middle" style="border:solid">
+                            <img class="rounded-circle" src="@item.ProfilePictureUrl" alt="@item.FullName" style="max-width :150px" />
+                        </td>
+                        <td class="align-middle" style="border:solid">
+                            @Html.DisplayFor(modelItem => item.FullName)
+                        </td>
+                        <td class="align-middle" style="border:solid">
+                            @Html.DisplayFor(modelItem => item.Bio)
+                        </td>
+                        @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                        {
+                            <td align="center" class="align-middle" style="border:solid">
+                                <a class="btn btn-outline-primary" asp-action="Edit" asp-route-id="@item.Id"><i class="bi bi-pencil-square"></i>Edit </a> |
+                                <a class="btn btn-outline-info" asp-controller="Suppliers" asp-action="Details" asp-route-id="@item.Id"><i class="bi bi-eye"></i>Details </a> |
+                                <a class="btn btn-danger text-white" asp-controller="Suppliers" asp-action="Delete" asp-route-id="@item.Id"><i class="bi bi-trash"></i>Delete </a>
+                            </td>
+                        }
+                        </tr>
+
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+@await Html.PartialAsync("_createitem", "Suppliers")

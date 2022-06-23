@@ -1,0 +1,407 @@
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\appsettings.Development.json
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\appsettings.json
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.exe
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.deps.json
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.runtimeconfig.json
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.runtimeconfig.dev.json
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.dll
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\ref\Ecommerce.dll
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.pdb
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.Views.dll
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.Views.pdb
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.csproj.AssemblyReference.cache
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.AssemblyInfoInputs.cache
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.AssemblyInfo.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.csproj.CoreCompileInputs.cache
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.RazorAssemblyInfo.cache
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.RazorAssemblyInfo.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\scopedcss\bundle\Ecommerce.styles.css
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\staticwebassets\Ecommerce.StaticWebAssets.Manifest.cache
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.TagHelpers.input.cache
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.TagHelpers.output.cache
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.RazorCoreGenerate.cache
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.RazorTargetAssemblyInfo.cache
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.RazorTargetAssemblyInfo.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.Views.pdb
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.csproj.CopyComplete
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.dll
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\ref\Ecommerce.dll
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.pdb
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.genruntimeconfig.cache
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\Humanizer.dll
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Private Project\new\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Suppliers\Index.cshtml.g.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Brands\Index.cshtml.g.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Companies\Index.cshtml.g.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\staticwebassets\Ecommerce.StaticWebAssets.xml
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Suppliers\Create.cshtml.g.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Suppliers\Details.cshtml.g.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Suppliers\Edit.cshtml.g.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Suppliers\Delete.cshtml.g.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Brands\Details.cshtml.g.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Brands\Create.cshtml.g.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Brands\Edit.cshtml.g.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Brands\Delete.cshtml.g.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Companies\Create.cshtml.g.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Companies\Details.cshtml.g.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Companies\Edit.cshtml.g.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Companies\Delete.cshtml.g.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Shared\_createitem.cshtml.g.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Orders\ShoppingCart.cshtml.g.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Orders\OrderCompleted.cshtml.g.cs
+F:\Private Project\new\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\appsettings.Development.json
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\appsettings.json
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.exe
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.deps.json
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.runtimeconfig.json
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.runtimeconfig.dev.json
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\ref\Ecommerce.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.pdb
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.Views.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.Views.pdb
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\Humanizer.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.csproj.AssemblyReference.cache
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.AssemblyInfoInputs.cache
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.AssemblyInfo.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.csproj.CoreCompileInputs.cache
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.RazorAssemblyInfo.cache
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.RazorAssemblyInfo.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\staticwebassets\Ecommerce.StaticWebAssets.Manifest.cache
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\staticwebassets\Ecommerce.StaticWebAssets.xml
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\scopedcss\bundle\Ecommerce.styles.css
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.TagHelpers.input.cache
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.TagHelpers.output.cache
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.RazorCoreGenerate.cache
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Brands\Create.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Brands\Delete.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Brands\Details.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Brands\Edit.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Brands\Index.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Companies\Create.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Companies\Delete.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Companies\Details.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Companies\Edit.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Companies\Index.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Orders\OrderCompleted.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Orders\ShoppingCart.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Shared\_createitem.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Suppliers\Create.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Suppliers\Delete.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Suppliers\Details.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Suppliers\Edit.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Suppliers\Index.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.RazorTargetAssemblyInfo.cache
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.RazorTargetAssemblyInfo.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.Views.pdb
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.csproj.CopyComplete
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.dll
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\ref\Ecommerce.dll
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.pdb
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.genruntimeconfig.cache
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Account\RegisterCompleted.cshtml.g.cs
+E:\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Shared\_Identity.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\appsettings.json
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.exe
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.deps.json
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.runtimeconfig.json
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.runtimeconfig.dev.json
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\ref\Ecommerce.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.pdb
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.Views.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.Views.pdb
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.AssemblyInfo.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.RazorAssemblyInfo.cache
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.RazorAssemblyInfo.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\staticwebassets\Ecommerce.StaticWebAssets.Manifest.cache
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\staticwebassets\Ecommerce.StaticWebAssets.xml
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\scopedcss\bundle\Ecommerce.styles.css
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.TagHelpers.input.cache
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.TagHelpers.output.cache
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.RazorCoreGenerate.cache
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Account\RegisterCompleted.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Brands\Create.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Brands\Delete.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Brands\Details.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Brands\Edit.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Brands\Index.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Companies\Create.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Companies\Delete.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Companies\Details.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Companies\Edit.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Companies\Index.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Orders\OrderCompleted.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Orders\ShoppingCart.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Shared\_createitem.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Shared\_Identity.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Suppliers\Create.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Suppliers\Delete.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Suppliers\Details.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Suppliers\Edit.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Suppliers\Index.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.RazorTargetAssemblyInfo.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.Views.pdb
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.csproj.CopyComplete
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\ref\Ecommerce.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.pdb
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.genruntimeconfig.cache
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\appsettings.json
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.exe
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.deps.json
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.runtimeconfig.json
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.runtimeconfig.dev.json
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\ref\Ecommerce.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.pdb
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.Views.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\Ecommerce.Views.pdb
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.AssemblyInfo.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.RazorAssemblyInfo.cache
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.RazorAssemblyInfo.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\staticwebassets\Ecommerce.StaticWebAssets.Manifest.cache
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\staticwebassets\Ecommerce.StaticWebAssets.xml
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\scopedcss\bundle\Ecommerce.styles.css
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.TagHelpers.input.cache
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.TagHelpers.output.cache
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.RazorCoreGenerate.cache
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Account\RegisterCompleted.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Brands\Create.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Brands\Delete.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Brands\Details.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Brands\Edit.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Brands\Index.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Companies\Create.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Companies\Delete.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Companies\Details.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Companies\Edit.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Companies\Index.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Orders\OrderCompleted.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Orders\ShoppingCart.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Shared\_createitem.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Shared\_Identity.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Suppliers\Create.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Suppliers\Delete.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Suppliers\Details.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Suppliers\Edit.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\Suppliers\Index.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.RazorTargetAssemblyInfo.cs
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.Views.pdb
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.csproj.CopyComplete
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\ref\Ecommerce.dll
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.pdb
+C:\Users\Asus\OneDrive - University of Plymouth\Desktop\Ecommerce-Final\Ecommerce\Ecommerce\obj\Debug\net5.0\Ecommerce.genruntimeconfig.cache
