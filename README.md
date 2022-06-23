@@ -1,4 +1,2 @@
 # Online Grocery-Store Web Application- ASP.NET CORE [MVC]
-This is an Online Grocery Store Web application project developed using ASP.NET Core 5.0 verion and MVC architecture.
-
-API'S - Pay Pal payment gataway
+The Web application was developed according to the MVC architecture and using the ASP.NET.CORE programming language. Visual Studio 2019 IDE is used as a code editor for developing the web application and Microsoft SQL Server Management Studio 18 update was used as the database. In this project, Searching for products, adding them to the cart, and checking out products using the online payment method [Pay Pal Gtaway] are the main facilities that are provided to the clients. There is an administration view in this application and by using it admin allows to manage the web application exactly.
